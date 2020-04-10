@@ -1,0 +1,29 @@
+{
+  "name": "fullstack-counter-exercise",
+  "version": "1.0.0",
+  "description": "in-class fullstack counter exercise where a counter is incremented or decremented from a front-end html",
+  "main": "fullstack-counter.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"test\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stall84/fullstack-counter-exercise.git"
+  },
+  "keywords": [
+    "student",
+    "api",
+    "express"
+  ],
+  "author": "Michael Stallings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stall84/fullstack-counter-exercise/issues"
+  },
+  "homepage": "https://github.com/stall84/fullstack-counter-exercise#readme"
+}
