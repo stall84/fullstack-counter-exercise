@@ -4,7 +4,7 @@
   "description": "in-class fullstack counter exercise where a counter is incremented or decremented from a front-end html",
   "main": "fullstack-counter.js",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "express": "^4.17.1"
   },
   "devDependencies": {},
